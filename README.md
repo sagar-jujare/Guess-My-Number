@@ -4,6 +4,8 @@
  
  ## Screenshots
  
- ![The Preview]()
+ ![The Preview](https://raw.githubusercontent.com/sagar-jujare/Guess-My-Number/main/correct.png)
+ 
+  ![The Preview](https://raw.githubusercontent.com/sagar-jujare/Guess-My-Number/main/correct.png)
  
  
